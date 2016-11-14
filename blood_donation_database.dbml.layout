@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="blood_donation_database">
+  <DataContextMoniker Name="/blood_donation_databaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c9c9b125-991b-4422-861d-4bb83864b561" absoluteBounds="4, 2.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/blood_donation_databaseDataContext/Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="688609bb-c40b-471a-9d43-951c6339d793" absoluteBounds="4.0150000000000006, 3.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d6adad54-24cb-4479-8b53-bd3161b3db99" absoluteBounds="4, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/blood_donation_databaseDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="be4de4f9-82cb-4c99-815c-9aac4f1f096e" absoluteBounds="4.015, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="662f8ace-fce0-4392-b548-1d3080c2f233" absoluteBounds="1.125, 1, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/blood_donation_databaseDataContext/Donator" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6efcc561-eb69-49b8-b7eb-67eab27ae1f1" absoluteBounds="1.1400000000000001, 1.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
